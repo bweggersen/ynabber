@@ -11,7 +11,7 @@ subsections.
 Install [Go](https://go.dev/) and run `go install` to install binary
 
 ```bash
-go install github.com/martinohansen/ynabber/cmd/ynabber@latest
+go install github.com/bweggersen/ynabber/cmd/ynabber@latest
 ```
 
 ## Usage
